@@ -28,7 +28,3 @@ This project focuses on DOM manipulation, event handling, and implementing basic
 - Arrays & conditions  
 - Functions & code reusability  
 
----
-
-## 📁 Project Structure
-
