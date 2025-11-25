@@ -4,11 +4,6 @@ This project focuses on DOM manipulation, event handling, and implementing basic
 
 ---
 
-## 🚀 Live Demo  
-(If you publish GitHub Pages link, paste it here)
-
----
-
 ## 📌 Features
 - ✔ Turn-based gameplay (X vs O)  
 - ✔ Winning pattern detection  
